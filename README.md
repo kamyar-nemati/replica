@@ -5,6 +5,9 @@ JavaScript Object Replicator
 Replica is a JavaScript library that provides a way to clone objects. Nested properties such as literals, arrays, objects, and functions are covered.
 
 ## Usage
+1. Install the package `npm i @kamyar-nemati/replica --save`
+2. Import the package `import { deepCopy } from '@kamyar-nemati/replica';`
+3. Finally:
 ```js
 let cloneObject = Object();
 // copying 'originalObject' into 'cloneObject'
