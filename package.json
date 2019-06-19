@@ -4,7 +4,7 @@
   "description": "JavaScript Object Replicator",
   "main": "replica.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --experimental-modules test.mjs && exit 1"
   },
   "repository": {
     "type": "git",
