@@ -1,0 +1,26 @@
+{
+  "name": "@kamyar-nemati/replica",
+  "version": "1.0.0",
+  "description": "JavaScript Object Replicator",
+  "main": "replica.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamyar-nemati/replica.git"
+  },
+  "keywords": [
+    "clone",
+    "object",
+    "copy",
+    "deep",
+    "replicate"
+  ],
+  "author": "Kamyar Nemati",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamyar-nemati/replica/issues"
+  },
+  "homepage": "https://github.com/kamyar-nemati/replica#readme"
+}
